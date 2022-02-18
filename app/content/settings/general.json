@@ -1,9 +1,9 @@
 {
   "title": "Home",
   "titleTemplate": "| Jack Ward",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar \n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/logo.svg",
-  "icon": "/images/uploads/logo.png",
+  "welcomeText": "# Yo, I'm a software developer with over 10 years experience in the industry.\n\n## Core Technical Skills\n\n* .Net, ASP.Net (MVC/Web API/WebForms), ASP.net Core, WPF \n* AWS: SQS, SNS, Lambda, Cloudformation\n* Swagger, TopShelf + Quartz, Dapper\n* HTML/HTMl5, CSS/CSS3/LESS/SCSS, Javascript, JQuery, Bootstrap 4, React, Knockout, Angular 4 \n* AWS PaSS, Team City, Octopus, Jira, Confluence, Git, Team Foundation Online, Tortoise SVN, Office 365\n* Visual Studio, SQL Server, SQL Management Studio, Fiddler\n* SCRUM, agile development, continuous integration\n\n## Additional Skills\n\n* Interviewing\n* Microsoft Office/Office 365\n* Microsoft Visio\n* Adobe Fireworks\n* Umbraco\n* NopCommerce\n* Microsoft Azure/AWS",
+  "logo": "/images/uploads/242073925_10227779049321328_6297409149558039322_n.jpg",
+  "icon": "/images/uploads/242073925_10227779049321328_6297409149558039322_n.jpg",
   "loadingColor": "#0b3765",
   "seoDescription": "Welcome message ",
   "seoMetaImage": ""
